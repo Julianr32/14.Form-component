@@ -104,7 +104,7 @@ body {
   font-size: var(--small-fnt);
   color: #e8e7e7;
   margin: 2rem 0;
-  max-width: 400px;
+  max-width: 500px;
 }
 
 .main__container {
@@ -126,7 +126,6 @@ body {
 }
 
 .main__container .info p {
-  width: 100%;
   font-weight: var(--light-fnt);
   color: #e8e7e7;
 }
